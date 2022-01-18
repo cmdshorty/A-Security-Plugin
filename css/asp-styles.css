@@ -1,0 +1,18 @@
+.form-table-test {
+	margin: 0 auto;
+	width: 80%;
+}
+
+.form-table-test tr {
+	height: 50px;
+}
+
+.form-table-test th {
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+}
+
+.form-table-test input[type="text"] {
+	border-radius: 5px;
+}
